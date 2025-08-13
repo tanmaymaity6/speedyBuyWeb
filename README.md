@@ -7,7 +7,7 @@
 
 ## How to install and run locally ?
 ```
-$ git clone https://github.com/arjunrajput18/speedyBuyWeb.git
+$ git clone https://github.com/tanmaymaity6/speedyBuyWeb.git
 $ cd speedyBuyWeb
 $ npm install
 $ npm start
