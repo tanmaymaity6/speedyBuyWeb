@@ -21,7 +21,7 @@ export const Footer = () => {
         <ul className="social-links">
           <li>
             <a
-              href="https://www.linkedin.com/in/arjunrajput18"
+              href="https://www.linkedin.com/in/tanmay-maity/"
               target="_blank"
               rel="noreferrer"
               className="social-item social-1"
@@ -32,7 +32,7 @@ export const Footer = () => {
           <li>
             {" "}
             <a
-              href="https://github.com/arjunrajput18"
+              href="https://github.com/tanmaymaity6"
               target="_blank"
               rel="noreferrer"
               className="social-item social-2"
@@ -42,7 +42,7 @@ export const Footer = () => {
           </li>
           <li>
             <a
-              href="https://twitter.com/arjunrajput1812"
+              href="https://x.com"
               target="_blank"
               rel="noreferrer"
               className="social-item social-3"
@@ -55,12 +55,12 @@ export const Footer = () => {
       <p className="developedBy">
         Developed By{" "}
         <a
-          href="https://arjunsinghportfolio.netlify.app/"
+          href="https://tanmaydev.netlify.app//"
           target="_blank"
           rel="noreferrer"
           className="developer_name"
         >
-          Arjunsingh Rajput 🧑🏻‍💻
+          Tanmay Maity 🧑🏻‍💻
         </a>
       </p>
     </footer>
