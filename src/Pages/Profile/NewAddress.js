@@ -67,7 +67,7 @@ export const NewAddress = () => {
   const handleDummyAddress = () => {
     setValues(() => ({
       id: new Date().getTime(),
-      name: "Arjunsingh Rajput",
+      name: "Tanmay Maity",
       street: "204, sai jyot, s. n road Mulund WEST",
       city: "MUMBAI",
       state: "MAHARASHTRA",
